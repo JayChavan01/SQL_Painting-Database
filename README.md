@@ -1,6 +1,6 @@
 # Painting-Database
 
-###**Overview:**  
+### **Overview:**  
 This project is an SQL-based case study in which I solve various queries related to a **painting database** using **MySQL**. The queries focus on retrieving insights about paintings, museums, artists, and sales trends. The project does not use Excel or Power BI—only SQL is used to process and analyze the data.  
 
 ---
@@ -51,4 +51,4 @@ This project is an SQL-based case study in which I solve various queries related
 
 ---
 
-This project showcases my SQL querying skills in a **real-world scenario**, providing **insights into paintings, museums, and artists** through optimized queries. If you have any suggestions or improvements, let me know! 🚀
+This project showcases my SQL querying skills in a **real-world scenario**, providing **insights into paintings, museums, and artists** through optimized queries.🍕🚀# SQL-Projects
