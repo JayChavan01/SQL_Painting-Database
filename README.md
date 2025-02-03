@@ -42,12 +42,7 @@ This project is an SQL-based case study in which I solve various queries related
 ---
 
 ### **Tools Used:**  
-- **MySQL:** Querying and analyzing the dataset.  
-
----
-
-### **Live Project:**  
-- *View Detailed Project*: [SQL Painting Database Case Study](#) (Replace with actual link if available)  
+- **MySQL:** Querying and analyzing the dataset.    
 
 ---
 
